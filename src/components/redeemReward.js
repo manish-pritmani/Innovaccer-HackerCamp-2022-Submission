@@ -44,4 +44,33 @@ const Reward = () => {
   <Card>
     <Card.Img variant="top" src="https://www.jasani.ae/web/image/product.image/655/image_1024/ARGAKI%20-%20SANTHOME%20Gift%20Set-%20SS%20Bottle%2C%20Notebook%20and%20Pen?unique=686c8e4" />
     <Card.Body>
-     
+      <Card.Title>Bottle, Notebook and Pen! Write yourself out :)</Card.Title>
+      <Card.Text>
+        Write your heart out and feel happy with this goodies set.{' '}
+      </Card.Text>
+    </Card.Body>
+    <Card.Footer>
+    <Button variant="primary" onClick={handleClick}>Continue with this choice</Button>
+    </Card.Footer>
+  </Card>
+  <Card>
+    <Card.Img variant="top" src="https://user-images.githubusercontent.com/65852995/162997439-8ea3c022-af18-4ddb-b4ce-f7586a4659cc.gif" />
+    <Card.Body>
+      <Card.Title>Pick your own Happiness!</Card.Title>
+      <Card.Text>
+        With your token generated, you can pick set of goodies within that limit, and make your own happiness filled box.
+      </Card.Text>
+    </Card.Body>
+    <Card.Footer>
+    <Button variant="primary" onClick={handleClick}>Pick and Customise</Button>
+      
+    </Card.Footer>
+  </Card>
+</CardGroup>
+        </div>
+      </div>
+    </div>
+  );
+}
+
+export default Reward;
