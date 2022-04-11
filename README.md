@@ -11,6 +11,11 @@
 - #### <u>Prototype Overview</u>  
     ![pick_goodies](https://user-images.githubusercontent.com/65852995/163122696-271d1a28-d055-4128-a030-c2c07afdb945.jpeg)
 
+- ####  <u>Additional Resources</u> 
+
+  - **Screenshots -** https://github.com/manish-pritmani/Innovaccer-HackerCamp-2022-Submission/tree/master/Screenshots
+  - **Presentation PPT -** https://github.com/manish-pritmani/Innovaccer-HackerCamp-2022-Submission/blob/master/Manish_Pritmani_HackerCamp_2022.pdf
+
 - ####  <u>How to Run my Project Files ?</u> 
 
   Any system having React.js configured can run the prototype.
