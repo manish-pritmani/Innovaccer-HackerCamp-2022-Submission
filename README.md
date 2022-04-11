@@ -11,6 +11,21 @@
 - #### <u>Prototype Overview</u>  
     ![pick_goodies](https://user-images.githubusercontent.com/65852995/163122696-271d1a28-d055-4128-a030-c2c07afdb945.jpeg)
 
+- ####  <u>How to Run my Project Files ?</u> 
+
+  Any system having React.js configured can run the prototype.
+
+  1. Locate the file in your os.
+  2. Open Terminal in that location in the project directory.
+  3. **Execute Command -** yarn start or npm start
+  4. The web application will start in localhost.
+  5. You can access the application in browser by typing the following url in the browser - http://localhost:3000.
+
+- #### <u>Assumptions Made</u>  
+
+  1. Organisation conduct events that helps reward employees and their performance.
+  2. Issue a new token when **Reward** needed to to be given to the employee.
+
 - ####  <u>Information</u> 
 
   - **Solution GitHub Link -** https://github.com/manish-pritmani/Innovaccer-HackerCamp-2022-Submission
