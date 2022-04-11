@@ -8,7 +8,6 @@ import { useReducer } from 'react';
 import {initialState, reducer} from '../src/reducer/UseReducer';
 import GenerateToken from './components/genToken';
 import TrackStatus from './components/trackStatus';
-import Feedback from 'react-bootstrap/esm/Feedback';
 import SubmitFeedback from './components/SubmitFeedback';
 import Footer from './components/Footer';
 import Reward from './components/redeemReward';
